@@ -2,8 +2,8 @@
 
 ### Credits
 
-  Icon: Flaticon by Freepik Company S.L. (flaticon.com)
-  Fork: Jekyll Now by Barry Clark (github.com/barryclark/jeykll-now)
+- Icon: Flaticon by Freepik Company S.L. (flaticon.com)
+- Fork: Jekyll Now by Barry Clark (github.com/barryclark/jeykll-now)
 
 ### How to Publish your first blog post
 
