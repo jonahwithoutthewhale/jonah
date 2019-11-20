@@ -18,14 +18,14 @@ avatar: https://jonahwithoutthewhale.github.io/images/4500FC22-7CA8-4F9D-8BF2-B0
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: contact@jonahwithoutthewhale.com
   facebook:
   flickr:
   github:
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: jonahhwithoutthewhale # just type anything here for a working RSS icon
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://jonahwithoutthewhale.com
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
