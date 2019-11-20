@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Some information about us!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+More details to come...
 
-### Contact me
+### Contact Us
 
-[email@domain.com](mailto:email@domain.com)
+[contact@jonahwithoutthewhale.com](mailto:contact@jonahwithoutthewhale.com)
