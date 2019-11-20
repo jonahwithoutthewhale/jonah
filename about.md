@@ -8,9 +8,9 @@ Some information about us and this blog will be coming soon.
 
 ### Individual Blog Posts
 
-- [Jonah's Blog Posts] (/jonah/)
-- [Kelly's Blog Posts] (/kelly/)
-- [Rebecca's Blog Posts] (/rebecca/)
+- [Jonah's Blog Posts] (https://jonahwithoutthewhale.com/jonah/)
+- [Kelly's Blog Posts] (https://jonahwithoutthewhale.com/kelly/)
+- [Rebecca's Blog Posts] (https://jonahwithoutthewhale.com/rebecca/)
 
 ### Contact Us
 
