@@ -4,11 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about us!
+Some information about us and this blog will be coming soon.
 
-### More Information
+### Individual Blog Posts
 
-More details to come...
+- [Jonah's Blog Posts] (/jonah/)
+- [Kelly's Blog Posts] (/kelly/)
+- [Rebecca's Blog Posts] (/rebecca/)
 
 ### Contact Us
 
