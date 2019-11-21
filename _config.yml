@@ -84,3 +84,35 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+# Add author details
+authors:
+      jonah:
+        display_name: Jonah
+        about: Jonah is a full-time student. He loves all sports, especially football.</p>
+        email: mailto:contact@jinahwithoutthewhale.com
+        web: 
+        facebook: 
+        twitter: 
+        github: 
+        gravatar: 
+
+      kelly:
+        display_name: Kelly
+        about: Kelly is a gamer with a particular interest in data privacy.
+        email: mailto:contact@privacychick.io
+        web: https://provacychick.io
+        facebook: 
+        twitter: 
+        github: 
+        gravatar:
+        
+      rebecca:
+        display_name: Rebecca
+        about: Rebecca is a vegan animal lover.
+        email: mailto:contact@jonahwithoutthewhale.com
+        web:
+        facebook: 
+        twitter: 
+        github: 
+        gravatar: 
