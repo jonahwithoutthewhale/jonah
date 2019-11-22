@@ -8,6 +8,8 @@ Some information about us and this blog will be coming soon.
 
 ### Individual Blog Posts
 
+Testing author grouping...
+
 {% assign items_grouped = site.posts | group_by: 'author' %}
   {% for group in items_grouped %}
     <h3>{{group.name}}</h3>
