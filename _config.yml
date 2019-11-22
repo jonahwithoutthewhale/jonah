@@ -89,30 +89,28 @@ exclude:
 authors:
       jonah:
         display_name: Jonah
-        about: Jonah is a full-time student. He loves all sports, especially football.</p>
+        about: I'm a full-time student who loves all sports, especially football.</p>
         email: mailto:contact@jinahwithoutthewhale.com
         web: 
-        facebook: 
-        twitter: 
+        website: 
         github: 
-        gravatar: 
+        avatar: 
 
       kelly:
         display_name: Kelly
-        about: Kelly is a gamer with a particular interest in data privacy.
+        about: I'm a gamer with a particular interest in data privacy.
         email: mailto:contact@privacychick.io
-        web: https://provacychick.io
-        facebook: 
+        web: https://privacychick.io
+        website: 
         twitter: 
         github: 
-        gravatar:
+        avatar:
         
       rebecca:
         display_name: Rebecca
-        about: Rebecca is a vegan animal lover.
+        about: I'm a vegan animal lover.
         email: mailto:contact@jonahwithoutthewhale.com
         web:
-        facebook: 
-        twitter: 
+        website: 
         github: 
-        gravatar: 
+        avatar: 
