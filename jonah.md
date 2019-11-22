@@ -4,4 +4,9 @@ title: Jonah
 permalink: /jonah/
 ---
 
-Links to Jonah's blog posts...
+Testing Jonah author grouping...
+
+{% for post in site.categories.[page.category] %}
+{% assign author = site.data.authors[post.author] %}
+  {{ author.Jonah }}
+  {% endfor %}
