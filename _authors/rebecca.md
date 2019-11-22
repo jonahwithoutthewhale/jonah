@@ -1,5 +1,6 @@
 ---
-title: Rebecca
+short_name: Rebecca
+name: Rebecca
 email:
 ---
 
