@@ -1,5 +1,6 @@
 ---
-title: Kelly
+short_name: Kelly
+name: Kelly
 email: mailto:contact@privacychick.io
 ---
 
