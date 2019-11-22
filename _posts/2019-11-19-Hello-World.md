@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We're up and running!
+title: Hello, World!
 author: kelly
 ---
 
