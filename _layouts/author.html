@@ -9,6 +9,6 @@ layout: default
 <ul>
   {% assign filtered_posts = site.posts | where: 'author', page.short_name %}
   {% for post in filtered_posts %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a> {{ page.date | date: "%B %e, %Y" }} (t4st date)</li>
+    <li><a href="{{ post.url }}">{{ post.title }}</a> {{ post.date | date: "%B %e, %Y" }}</li>
   {% endfor %}
 </ul>
