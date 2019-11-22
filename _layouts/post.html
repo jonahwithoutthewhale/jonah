@@ -1,17 +1,17 @@
 ---
 layout: default
-comments: true
-# other options
 ---
 
 <article class="post">
   <h1>{{ page.title }}</h1>
-  <div class="date">
-  {{ page.date | date: "%B %e, %Y }}
-  </div>
+  <time datetime="{{ page.date | date_to_xmlschema }}" class="by-line" >{{ page.date | date_to_string }}</time>
 
   <div class="entry">
     {{ content }}
+  </div>
+
+  <div class="date">
+    Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
 
   {% assign author = site.authors[page.author] %}
