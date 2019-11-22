@@ -18,3 +18,16 @@ layout: default
   {% include  author.html %}
   {% include disqus.html %}
 </article>
+
+
+<article id="post-page">
+  <h2>{{ page.title }}</h2>
+  <time datetime="{{ page.date | date_to_xmlschema }}" class="by-line" >{{ page.date | date_to_string }}</time>
+  <div class="content">
+    {{ content }}
+  </div>
+
+  {% assign author = site.authors[page.author] %}
+  {% include  author.html %}
+
+</article>
