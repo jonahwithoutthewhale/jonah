@@ -9,7 +9,7 @@ name: Jonah Without the Whale
 description: Family blog.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://jonahwithoutthewhale.github.io/images/4500FC22-7CA8-4F9D-8BF2-B0772AD4CAF6.png
+avatar: https://jonahwithoutthewhale.com/images/whale_avatar.png
 
 #
 # Flags below are optional
@@ -94,7 +94,7 @@ authors:
         web: 
         website: 
         github: 
-        avatar: 
+        avatar: https://jonahwithoutthewhale.com/images/jonah_avatar.jpg
 
       kelly:
         display_name: Kelly
@@ -104,7 +104,7 @@ authors:
         website: 
         twitter: 
         github: 
-        avatar:
+        avatar: https://jonahwithoutthewhale.com/images/kelly_avatar.jpg
         
       rebecca:
         display_name: Rebecca
