@@ -1,5 +1,6 @@
 ---
 short_name: Jonah
+name: Jonah
 email: mailto:contact@jonahwithoutthewhale.com
 ---
 
