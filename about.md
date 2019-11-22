@@ -22,6 +22,12 @@ Testing author grouping...
 - [Kelly's Blog Posts](https://jonahwithoutthewhale.com/kelly/)
 - [Rebecca's Blog Posts](https://jonahwithoutthewhale.com/rebecca/)
 
+<ul>
+  {% for author in site.authors %}
+    <li><a href="{{ author.url }}">{{ author.title }}</a></li>
+  {% endfor %}
+</ul>
+
 ### Contact Us
 
 [contact@jonahwithoutthewhale.com](mailto:contact@jonahwithoutthewhale.com)
