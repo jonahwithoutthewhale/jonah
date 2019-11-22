@@ -91,7 +91,6 @@ authors:
         display_name: Jonah
         about: I'm a full-time student who loves all sports, especially football.</p>
         email: mailto:contact@jinahwithoutthewhale.com
-        web: 
         website: 
         github: 
         avatar: https://jonahwithoutthewhale.com/images/jonah_avatar.jpg
@@ -100,8 +99,7 @@ authors:
         display_name: Kelly
         about: I'm a gamer with a particular interest in data privacy.
         email: mailto:contact@privacychick.io
-        web: https://privacychick.io
-        website: 
+        website: https://privacychick.io
         twitter: 
         github: 
         avatar: https://jonahwithoutthewhale.com/images/kelly_avatar.jpg
