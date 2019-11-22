@@ -4,30 +4,15 @@ layout: default
 
 <article class="post">
   <h1>{{ page.title }}</h1>
-  <time datetime="{{ page.date | date_to_xmlschema }}" class="by-line" >{{ page.date | date_to_string }}</time>
+  <div class="date">
+  {{ page.date | date: "%B %e, %Y }}
+  </div>
 
   <div class="entry">
     {{ content }}
   </div>
 
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>
-
   {% assign author = site.authors[page.author] %}
   {% include  author.html %}
   {% include disqus.html %}
-</article>
-
-
-<article id="post-page">
-  <h2>{{ page.title }}</h2>
-  <time datetime="{{ page.date | date_to_xmlschema }}" class="by-line" >{{ page.date | date_to_string }}</time>
-  <div class="content">
-    {{ content }}
-  </div>
-
-  {% assign author = site.authors[page.author] %}
-  {% include  author.html %}
-
 </article>
