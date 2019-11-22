@@ -9,7 +9,7 @@ Some information about us and this blog will be coming soon.
 ### Individual Blog Posts
 
 {% for author in site.authors %}
-- <a href="{{ author.url }}">{{ author.title }}'s Blog Posts</a>
+- <a href="{{ author.url }}">{{ author.name }}'s Blog Posts</a>
 {% endfor %}
 
 ### Contact Us
