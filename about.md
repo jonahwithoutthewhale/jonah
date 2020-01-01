@@ -6,6 +6,10 @@ permalink: /about/
 
 Some information about us and this blog will be coming soon.
 
+### The Rest of the Tribe
+
+TBD
+
 ### Individual Blog Posts
 
 {% for author in site.authors %}
