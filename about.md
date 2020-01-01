@@ -5,10 +5,11 @@ permalink: /about/
 ---
 
 ### The Primary Tribe
-Some information about us and this blog will be coming soon.
+Some information about us and this blog will be coming soon. In the meantime, I am testing out the width of this page and how much space it takes to go to the next line.
 
 ### The Rest of the Tribe
-![Mable](/images/mable.jpg) ![Tessa](/images/tessa.jpg) ![Mazie](/images/mazie.jpg)
+![Mable](/images/mable.jpg) ![Tessa](/images/tessa.jpg)
+![Mazie](/images/mazie.jpg) ![Tessa](/images/tessa.jpg)
 
 ### Individual Blog Posts
 
