@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
+### The Primary Tribe
 Some information about us and this blog will be coming soon.
 
 ### The Rest of the Tribe
-
-TBD
+![Mable](/images/mable.jpg) ![Tessa](/images/tessa.jpg) ![Mazie](/images/mazie.jpg)
 
 ### Individual Blog Posts
 
