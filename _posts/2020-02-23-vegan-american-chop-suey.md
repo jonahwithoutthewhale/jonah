@@ -4,7 +4,6 @@ author: Recipes
 title: "Vegan American Chop Suey"
 ---
 
-**VEGAN AMERICAN CHOP SUEY**
 * _Author:_ [Rebecca](https://jonahwithoutthewhale.com/authors/rebecca/) (adapted from Kelly's childhood recipe)
 * _Prep Time:_ 10 minutes
 * _Cook Time:_ 15 minutes
