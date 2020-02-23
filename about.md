@@ -18,7 +18,7 @@ Why Jonah without the Whale? We have a Jonah who is 11. But unlike Jonah in the 
 ### Individual Blog Posts and Bios
 
 {% for author in site.authors %}
-- <a href="{{ author.url }}">{{ author.name }}'s Blog Posts</a>
+- <a href="{{ author.url }}">{{ author.name }}</a>
 {% endfor %}
 
 ### Contact Us
