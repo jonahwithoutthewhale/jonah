@@ -41,6 +41,6 @@ _For Serving:_
 
 4. Stir in spinach and cook until wilted. Season with salt and black pepper to taste.
 
-Serve on a bed of basmati rice or quinoa, garnished with cilantro and coconut. If desired, offer with a wedge of lime to squeeze over curry.
+5. Serve on a bed of basmati rice or quinoa, garnished with cilantro and coconut. If desired, offer with a wedge of lime to squeeze over curry.
 
 ![Photo by Jonah Without the Whale ](/images/2020-03-08_coconut_curry.jpg)
