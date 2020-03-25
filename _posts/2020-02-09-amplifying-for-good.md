@@ -12,7 +12,7 @@ Advocating for the protection of animals.
 
 Sharing my experience that my connection to the earth, her resources, and to the animals healed the hurt parts.
 
-![Photo by Jonah Without the Whale](/images/2020_02_09_rebecca_and_traveler.jpg)
+![Photo by Jonah Without the Whale](/images/2020-02-09_rebecca_and_traveler.jpg)
 
 Where does one start? This would seem overwhelming if I hadn't already confessed that I don't remember when or where it all started. I can assure you there are no prerequisites or pre-qualifications; I wouldn't have passed had there been. I also know it is a process, a constant evolution. One of my hesitations about sharing on this blog is I know I don't have it all figured out and I don't always get it right. But then I realized that actually gives me more credibility. I say f%#@ way too much, I have parenting fails, I have been known to have road rage, I have strained relationships and everyday I start with burning palo santo, lighting a candle, sitting in meditation, and journaling my gratitudes to connect with Source and begin again.
 
