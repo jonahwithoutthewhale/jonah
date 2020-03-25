@@ -21,13 +21,13 @@ title: "Great Northern Bean Soup"
 * 1 (6 oz.) bag fresh baby spinach leaves
 
 **Directions**
-1. If using bouillon cubes to make the vegetable broth, boil 4 cups of water and drop in the cubes to disintegrate. We like [Knorr Vegetable Bouillon](https://www.knorr.com/us/en/products/bouillon/vegetable.html).
+1. If using bouillon cubes to make the vegetable broth, boil 4 cups of water and drop in the cubes to disintegrate. Set aside. We like [Knorr Vegetable Bouillon](https://www.knorr.com/us/en/products/bouillon/vegetable.html).
 
 2. Heat a large soup pot coated with cooking spray over medium-high heat. Add carrots, onion, and garlic. Saute for 3 minutes, stirring occasionally. Reduce heat to medium, cover, and cook for 5 minutes.
 
 3. Add the broth, Italian seasoning, black pepper, and beans. Bring to a boil, reduce heat, cover, and simmer for 5 minutes.
 
-4. Place 2 cups of the food in a food processor of blender. Process until smooth and return the mixture to the pot. Simmer for 5 minutes.
+4. Place 2 cups of the food in a food processor or blender. Process until smooth and return the mixture to the pot. Simmer for 5 minutes.
 
 5. Remove soup from heat. Add the spinach, stirring until it wilts. Can be served immediately.
 
