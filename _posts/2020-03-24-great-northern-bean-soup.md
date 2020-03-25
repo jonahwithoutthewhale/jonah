@@ -32,3 +32,5 @@ title: "Great Northern Bean Soup"
 5. Remove soup from heat. Add the spinach, stirring until it wilts. Can be served immediately.
 
 ![Photo by Jonah Without the Whale](/images/2020-03-24_bean_soup.jpg)
+
+This is one of [Rebecca's](https://jonahwithoutthewhale.com/authors/kelly/) favorites. Very easy to double the batch if you want some leftovers (or have a big family).
