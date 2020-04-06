@@ -18,6 +18,6 @@ title: "Habits for the Planet"
 
 6. Use shampoo bars. I use [Lush](https://www.lushusa.com/hair/shampoo-bars/) and LOVE them. I will say if you have color treated hair get a conditioning bar too.
 
-7. Reusable snack bags ([4MyEarth Food Bag](https://www.biome.com.au/reusable-food-pouches/20180-4myearth-food-bag-purple-dandelion.html)) or paper snack bags ([Paper Snack and Sandwich Bags](https://ecowarehouse.nz/paper-snack-and-sandwich-bags-unbleached-if-you-care)). You should be able to find them at your local grocery store.
+7. Reusable snack bags; cotton ([4MyEarth Food Bag](https://www.biome.com.au/reusable-food-pouches/20180-4myearth-food-bag-purple-dandelion.html)) or paper snack bags ([Paper Snack and Sandwich Bags](https://ecowarehouse.nz/paper-snack-and-sandwich-bags-unbleached-if-you-care)). You should be able to find them at your local grocery store.
 
 8. Bamboo utensils when you eat out ([Chico To-Go Bamboo Utensil Set](https://www.biome.com.au/sporks-all-in-one-cutlery/28197-chico-to-go-bamboo-utensil-set-green-705105479408.html)).
