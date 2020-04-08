@@ -17,7 +17,7 @@ title: "No-Knead Bread"
 * 1 1/4 teaspoons salt (8g)
 * 1 1/3 cups water (345g)
 
-**Special equipment**
+**Special Equipment**
 * 6- to 8-quart heavy pot with lid
 
 ![Photo by Jonah Without the Whale](/images/2020-04-08_no_knead_bread.jpg)
