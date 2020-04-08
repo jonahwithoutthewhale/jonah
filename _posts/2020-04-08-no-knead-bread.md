@@ -20,8 +20,6 @@ title: "No-Knead Bread"
 **Special Equipment**
 * 6- to 8-quart heavy pot with lid
 
-![Photo by Jonah Without the Whale](/images/2020-04-08_no_knead_bread.jpg)
-
 **Directions**
 1. In a large bowl combine flour, yeast, and salt. Add water and mix with a spoon or your hand for about 30 seconds until the dough is shaggy and sticky.
 
@@ -36,3 +34,5 @@ title: "No-Knead Bread"
 6. When dough is ready, carefully remove pot from oven. Slide your hand under towel and turn dough over into pot, seam side up; it may look like a mess, but that is okay. Shake pan once or twice if dough is unevenly distributed; it will straighten out as it bakes. Cover with lid and bake 30 minutes, then remove lid and bake another 15 to 30 minutes, until loaf is beautifully browned. Use a heatproof spatula or pot holders to carefully lift the bread out of the pot and place it on a wire rack.
 
 7. Let cool for at least an hour.
+
+![Photo by Jonah Without the Whale](/images/2020-04-08_no_knead_bread.jpg)
